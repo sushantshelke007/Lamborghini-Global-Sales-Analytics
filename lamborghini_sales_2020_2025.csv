@@ -1,0 +1,59 @@
+Model,Year,Region,Color,Fuel Type, price(USD) ,Unit(sales), Revenue(USD) 
+Urus,2020,EMEA,Black,Gasoline," $2,30,000.00 ",4500,1.04 B
+Urus,2020,Americas,White,Gasoline," $2,40,000.00 ",4800,1.15 B
+Urus,2020,APAC,Red,Gasoline," $2,35,000.00 ",2700,0.63 B
+Huracán,2020,EMEA,Yellow,Gasoline," $2,60,000.00 ",2500,0.65 B
+Huracán,2020,Americas,Orange,Gasoline," $2,70,000.00 ",2600,0.70 B
+Huracán,2020,APAC,Black,Gasoline," $2,65,000.00 ",1500,0.40 B
+Aventador,2020,EMEA,Black,Gasoline," $5,50,000.00 ",600,0.33 B
+Aventador,2020,Americas,White,Gasoline," $5,60,000.00 ",650,0.36 B
+Aventador,2020,APAC,Red,Gasoline," $5,55,000.00 ",400,0.22 B
+Urus,2021,EMEA,Silver,Gasoline," $2,35,000.00 ",5021,1.18 B
+Urus,2021,Americas,Black,Gasoline," $2,45,000.00 ",5200,1.27 B
+Urus,2021,APAC,White,Gasoline," $2,40,000.00 ",2780,0.67 B
+Huracán,2021,EMEA,Yellow,Gasoline," $2,65,000.00 ",2586,0.69 B
+Huracán,2021,Americas,Orange,Gasoline," $2,75,000.00 ",2700,0.74 B
+Huracán,2021,APAC,Black,Gasoline," $2,70,000.00 ",1520,0.41 B
+Aventador,2021,EMEA,Black,Gasoline," $5,60,000.00 ",798,0.45 B
+Aventador,2021,Americas,White,Gasoline," $5,70,000.00 ",820,0.47 B
+Aventador,2021,APAC,Red,Gasoline," $5,65,000.00 ",500,0.28 B
+Urus,2022,EMEA,Black,Gasoline," $2,40,000.00 ",5367,1.29 B
+Urus,2022,Americas,White,Gasoline," $2,50,000.00 ",5550,1.39 B
+Urus,2022,APAC,Red,Gasoline," $2,45,000.00 ",3000,0.74 B
+Huracán,2022,EMEA,Yellow,Gasoline," $2,70,000.00 ",3113,0.84 B
+Huracán,2022,Americas,Orange,Gasoline," $2,80,000.00 ",3300,0.92 B
+Huracán,2022,APAC,Black,Gasoline," $2,75,000.00 ",1900,0.52 B
+Aventador,2022,EMEA,Black,Gasoline," $5,70,000.00 ",753,0.43 B
+Aventador,2022,Americas,White,Gasoline," $5,80,000.00 ",780,0.45 B
+Aventador,2022,APAC,Red,Gasoline," $5,75,000.00 ",480,0.28 B
+Urus,2023,EMEA,Black,Gasoline," $2,50,000.00 ",6087,1.52 B
+Urus,2023,Americas,White,Gasoline," $2,60,000.00 ",6200,1.61 B
+Urus,2023,APAC,Red,Gasoline," $2,55,000.00 ",3100,0.79 B
+Huracán,2023,EMEA,Yellow,Gasoline," $2,80,000.00 ",3962,1.11 B
+Huracán,2023,Americas,Orange,Gasoline," $2,90,000.00 ",4000,1.16 B
+Huracán,2023,APAC,Black,Gasoline," $2,85,000.00 ",2300,0.66 B
+Aventador,2023,EMEA,Black,Gasoline," $5,80,000.00 ",63,0.04 B
+Aventador,2023,Americas,White,Gasoline," $5,90,000.00 ",63,0.04 B
+Aventador,2023,APAC,Red,Gasoline," $5,85,000.00 ",63,0.04 B
+Revuelto,2024,EMEA,Blue,Hybrid," $5,00,000.00 ",1406,0.70 B
+Revuelto,2024,Americas,White,Hybrid," $5,20,000.00 ",1500,0.78 B
+Revuelto,2024,APAC,Green,Hybrid," $5,10,000.00 ",900,0.46 B
+Urus SE,2024,EMEA,Black,Hybrid," $3,00,000.00 ",5662,1.70 B
+Urus SE,2024,Americas,Silver,Hybrid," $3,20,000.00 ",5800,1.86 B
+Urus SE,2024,APAC,Red,Hybrid," $3,10,000.00 ",3150,0.98 B
+Huracán,2024,EMEA,Yellow,Gasoline," $2,90,000.00 ",3600,1.04 B
+Huracán,2024,Americas,Orange,Gasoline," $3,00,000.00 ",3700,1.11 B
+Huracán,2024,APAC,Black,Gasoline," $2,95,000.00 ",2200,0.65 B
+Revuelto,2025,EMEA,Red,Hybrid," $5,50,000.00 ",1700,0.94 B
+Revuelto,2025,Americas,Blue,Hybrid," $5,70,000.00 ",1800,1.03 B
+Revuelto,2025,APAC,Black,Hybrid," $5,60,000.00 ",1650,0.92 B
+Urus SE,2025,EMEA,White,Hybrid," $3,30,000.00 ",4650,1.53 B
+Urus SE,2025,Americas,Black,Hybrid," $3,40,000.00 ",4800,1.63 B
+Urus SE,2025,APAC,Silver,Hybrid," $3,35,000.00 ",2750,0.92 B
+Huracán (Temerario),2025,EMEA,Grey,Hybrid," $3,80,000.00 ",1300,0.49 B
+Huracán (Temerario),2025,Americas,Orange,Hybrid," $3,90,000.00 ",1400,0.55 B
+Huracán (Temerario),2025,APAC,White,Hybrid," $3,85,000.00 ",1150,0.44 B
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
